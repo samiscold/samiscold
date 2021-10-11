@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samiscold
+- 👋 Hi, I’m Samir
 - 👀 I’m interested in IoT, AI, Web
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web app
