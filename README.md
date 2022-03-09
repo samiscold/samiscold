@@ -1,6 +1,6 @@
 ### Hello World 🌐 I'm Samir Vllaço,
 
-A Web developer passionate about building web applications 💻 that are appealing visually and keep the users interested. I like learning new trends, exploring scalability problems and improving efficiency and performance.
+A Web developer passionate about building web applications 💻 that are appealing visually and keep the users interested: I like learning new trends, exploring scalability problems and improving efficiency and performance.
 
 - 🔭 Current project <a href="https://github.com/samiscold/book-press">book press </a>  
 - 👯 I’m looking to collaborate with someone on my recent project <a href="https://github.com/samiscold/book-press">book press </a>  
