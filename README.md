@@ -5,6 +5,8 @@ A Web developer passionate about building web applications 💻 that are appeali
 - 🔭 Current project <a href="https://github.com/samiscold/book-press">book press </a>  
 - 👯 I’m looking to collaborate with someone on my recent project <a href="https://github.com/samiscold/book-press">book press </a>  
 
+<hr>
+
 **Working with:**
 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
