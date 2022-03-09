@@ -1,6 +1,7 @@
-- 🔭 I’m currently working on <a href="https://github.com/samiscold/book-press">book press </a>  
+- 🔭 Current project <a href="https://github.com/samiscold/book-press">book press </a>  
+- 👯 I’m looking to collaborate with someone on my recent project <a href="https://github.com/samiscold/book-press">book press </a>  
 
-**Currently working with:**
+**Working with:**
 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
