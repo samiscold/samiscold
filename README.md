@@ -1,7 +1,4 @@
-
-**Learning:**
-
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+- 🔭 I’m currently working on <a href="https://github.com/samiscold/book-press">book press </a>  
 
 **Currently working with:**
 
@@ -11,11 +8,7 @@
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 
 
+**Learning:**
 
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/samirvlla%C3%A7o//" title="linkedin"><img src="icons\linkedin.svg" /></a>
-<a href="https://twitter.com/samearcodes" title="Twitter"><img src="icons\twitter.svg" /></a>
-<br>
-</p>       
