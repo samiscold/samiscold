@@ -11,6 +11,11 @@
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 
 
-**Reach out:**
+
+
+<p align="center">
+<br>
 <a href="https://www.linkedin.com/in/samirvlla%C3%A7o//" title="linkedin"><img src="icons\linkedin.svg" /></a>
 <a href="https://twitter.com/samearcodes" title="Twitter"><img src="icons\twitter.svg" /></a>
+<br>
+</p>       
