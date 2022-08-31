@@ -15,7 +15,4 @@ A Web developer passionate about building web applications 💻 that are appeali
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 
 
-**Learning:**
-
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 
