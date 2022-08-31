@@ -12,8 +12,7 @@ A Web developer passionate about building web applications 💻 that are appeali
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/javascript.png" /></a>
+<a href="https://javascript.com/" title="Javascript"><img src="icons/javascript.png" /></a>
 
 
 
