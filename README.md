@@ -10,7 +10,7 @@ My dev background gave me structure. My UX obsession gives me edge.
 ---
 
 ### 🧠 Current Mission:
-- 🎓 Creating a **UI/UX & Creative Development course** for Udemy  
+- 🎓 Creating a **UI/UX & Creative Development course** on Udemy  
 ---
 
 
