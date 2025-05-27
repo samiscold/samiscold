@@ -1,22 +1,24 @@
-### Hello World 🌐 I'm Samir Vllaço,
+# 👋 Hey, I'm Samir Vllaço
 
-Instagram: @samircodes
+## 🎨 Design-Driven. 💻 Code-Schooled. 🚀 Obsession-Fueled.
 
-A Web developer passionate about building web applications 💻 that are appealing visually and keep the users interested: I like learning new trends, exploring scalability problems and improving efficiency and performance.
+From code to composition — I'm passionate about building things that move, feel, and convert.
 
+I bridge the gap between *code and creativity*.
+My dev background gave me structure. My UX obsession gives me edge.
 
+---
 
-
-<hr>
-
-**Working with:**
-
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://javascript.com/" title="Javascript"><img src="icons/javascript.png" /></a>
+### 🧠 Current Mission:
+- 🎓 Creating a **UI/UX & Creative Development course** for Udemy  
+---
 
 
+### 🎯 Let’s Connect
 
+If you’re:
 
-
+✅ A founder with big ambition  
+✅ A product lead tired of average  
+✅ A designer/dev who gets high off clean UX  
+✅ Or just someone who wants to grab coffee and talk tech, design, or why dark mode is life...
